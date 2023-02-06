@@ -1,0 +1,84 @@
+{
+  "UserData": [
+    {
+      "user": {
+        "id": 1,
+        "name": "berra",
+        "userName": "@berra",
+        "img": "https://picsum.photos/400/200"
+      }
+    },
+    {
+      "user": {
+        "id": 2,
+        "name": "sedat",
+        "userName": "@sedat",
+        "img": "https://picsum.photos/400/400"
+      }
+    },
+    {
+      "user": {
+        "id": 3,
+        "name": "fatma",
+        "userName": "@fatma",
+        "img": "https://picsum.photos/300/800"
+      }
+    },
+    {
+      "user": {
+        "id": 4,
+        "name": "ayşe",
+        "userName": "@ayşe",
+        "img": "https://picsum.photos/200/300"
+      }
+    },
+    {
+      "user": {
+        "id": 5,
+        "name": "cansu",
+        "userName": "@cansu",
+        "img": "https://picsum.photos/350/400"
+      }
+    },
+    {
+      "user": {
+        "id": 6,
+        "name": "merve",
+        "userName": "@mrve",
+        "img": "https://picsum.photos/300/450"
+      }
+    },
+    {
+      "user": {
+        "id": 7,
+        "name": "merve",
+        "userName": "@mrve",
+        "img": "https://picsum.photos/400/500"
+      }
+    },
+    {
+      "user": {
+        "id": 8,
+        "name": "irem",
+        "userName": "@irem",
+        "img": "https://picsum.photos/300/300"
+      }
+    },
+    {
+      "user": {
+        "id": 9,
+        "name": "didem",
+        "userName": "@ddidem",
+        "img": "https://picsum.photos/250/500"
+      }
+    },
+    {
+      "user": {
+        "id": 10,
+        "name": "esma",
+        "userName": "@eesmaa",
+        "img": "https://picsum.photos/400/450"
+      }
+    }
+  ]
+}
